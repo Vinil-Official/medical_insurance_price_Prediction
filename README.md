@@ -1,4 +1,4 @@
-# medical_insurance_price_Prediction
+
 # Medical Insurance Price Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
